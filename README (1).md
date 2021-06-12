@@ -1,6 +1,6 @@
 # Ondas
 
-Alumno: Alejandro Ortuño
+Alumno: Ivan di virgilio
 
 
 Curso: 5to 2da Aviónica
